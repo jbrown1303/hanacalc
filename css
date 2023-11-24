@@ -1,0 +1,21 @@
+.loan-calculator {
+  background-color: orange;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+input[type="number"],
+button {
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: white;
+  color: orange;
+  cursor: pointer;
+}
